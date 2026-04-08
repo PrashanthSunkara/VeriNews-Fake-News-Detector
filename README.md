@@ -24,3 +24,5 @@ VeriNews is a machine learning-based application that detects whether a news art
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## 📂 Dataset
+This project uses a reduced dataset (2000 samples) for fast training and demonstration purposes.
